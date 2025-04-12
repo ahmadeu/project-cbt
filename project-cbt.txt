@@ -5,6 +5,7 @@ A. Users (Siswa & Admin)
 
 B. Questions
 - Admin bisa buat, edit, hapus soal, set kunci jawaban, dan dikelompokkan per mata pelajaran.
+- Admin bisa menambahkan ilustrasi gambar jika dipelukan.
 
 C. Exam
 - Atur Ujian (Judul, waktu mulai, durasi, dll)
