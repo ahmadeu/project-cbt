@@ -3,5 +3,6 @@ Rencana Website CBT
 - Pilih Tingkat
   * MTS
   * MA
-- Jawaban berupa Essai
+- Jawaban bisa berupa Essai
+- Siswa hanya bisa akses website untuk satu kali sesi
 - Siswaa tidak bisa melakukan Split Screen
