@@ -1,0 +1,16 @@
+Computer Based Test Application
+Fitur & CRUD yang diperlukan untuk project CBT
+A. Users (Siswa & Admin)
+- Admin bisa membuat, edit, hapus data siswa, dan autentikasi login/logout.
+
+B. Questions
+- Admin bisa buat, edit, hapus soal, set kunci jawaban, dan dikelompokkan per mata pelajaran.
+
+C. Exam
+- Atur Ujian (Judul, waktu mulai, durasi, dll)
+
+D. Answers
+- Siswa menjawab soal -> simpan ke database, admin bisa melihat hasil ujian, penilaian otomatis jika soal pilihab ganda
+
+E. Results
+- Menampilkan nilai siswa setelah ujian.
