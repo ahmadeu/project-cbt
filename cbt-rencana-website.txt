@@ -2,6 +2,8 @@ Rencana Website CBT
 
 - Pilih Tingkat
   * MTS
+    ^ Reguler
+    ^ Tahfidz
   * MA
 - Jawaban bisa berupa Essai
 - Siswa hanya bisa akses website untuk satu kali sesi
