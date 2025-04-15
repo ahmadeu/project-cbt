@@ -4,6 +4,7 @@ Rencana Website CBT
   * MTS
     ^ Reguler
     ^ Tahfidz
+    ^ Takhasus
   * MA
     ^ IPA
     ^ IPS
